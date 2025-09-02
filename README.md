@@ -7,8 +7,6 @@ This Power BI project repositories demonstrates the ability to transform raw dat
 ## 🎯 Introduction  
 In today’s data-driven economy, understanding sales performance is critical for strategic growth for every organization. This project analyses the **sales data of NAB Bank** from **2015 to 2017**, with the goal of uncovering trends, identifying opportunities, and guiding business decisions through actionable insights.
 
----
-
 ## 🧭 Project Objective  
 The primary aim of this project is to build a dynamic **Sales Analytics Dashboard** that enables stakeholders to:
 
@@ -16,8 +14,6 @@ The primary aim of this project is to build a dynamic **Sales Analytics Dashboar
 - Track **monthly trends** in sales and profitability
 - Evaluate **profit margins** and identify high-performing segments
 - Support **data-driven decision-making** for marketing, operations, and supply chain strategies
-
----
 
 ## 📊 Data Overview  
 The dataset includes transactional records from NAB Bank over a three-year period. Key dimensions analysed:
@@ -31,12 +27,13 @@ Metrics tracked:
 - Total Sales  
 - Profit Percentage  
 - Transaction Count  
-- Sales Distribution by Region and Manufacturer
-
----
-
+- Sales Distribution by Region and Manufacturer.
+  
 ## 🚀 Executive Summary  
-This Sales Analytics dashboard provides a comprehensive view of NAB Bank’s performance over a three-year period. It highlights key metrics such as transaction volume, total revenue, and profit margins across various business segments.
+This Sales Analytics dashboard provides a comprehensive view of NAB Bank’s performance over a three-year period. It highlights key metrics such as transaction volume, total revenue, and profit margins across various business segments. Here is the **Dashboard Preview**
+
+<img width="638" height="780" alt="Screenshot 2025-09-02 163808" src="https://github.com/user-attachments/assets/c432448a-b6f1-47e6-b44e-b4a8d879960d" />
+
 
 ### 🔍 Key Highlights:
 - 📊 **Total Transactions:** 11.75 million  
@@ -49,9 +46,7 @@ These figures reflect a strong operational foundation, with high customer engage
 - Monitor regional and product-level performance  
 - Make data-driven decisions to improve profitability and operational efficiency
 
----
-
-## 📈 Key Insights
+##  Key Insights
 
 ### A. Salary and Occupation Breakdown 
 - Professionals peak at $70,000 with 1,542 customers, the highest in the dataset.
@@ -120,11 +115,40 @@ These figures reflect a strong operational foundation, with high customer engage
 ### 📈 F. Monthly Profit Comparison Analysis
 
 - Profits increased every month from Aug 2016 to Jul 2017.
+  
 - Biggest jump: **Jan 2017** – up **234.4%** from last year.
+  
 - Other strong months: **Dec 2016**, **Jun 2017**, **Jul 2017** – all over **190%** growth.
+  
 - Slower growth in **Aug 2016** (61.4%) and **May 2017** (85.7%), but still positive.
  
 <img width="1038" height="824" alt="image" src="https://github.com/user-attachments/assets/73584435-c2ac-486d-8048-8c7f0310ec1e" />
+
+### G. Month Over Month Comparision 
+
+- 📈 **Highest increase**:  
+  - **Oct 2016**: +0.45  
+  - **Mar 2018**: +0.28  
+  - **Sep 2017**: +0.39
+
+- 📉 **Largest drops**:  
+  - **Nov 2016**: -0.34  
+  - **Nov 2017**: -0.42  
+  - **May 2017**: -0.29
+
+<img width="1033" height="819" alt="image" src="https://github.com/user-attachments/assets/3b19e5b0-e854-4b2d-aaff-d561365372e8" />
+
+### H. Product Return Analysis
+
+- 👕 **V-Neck T-Shirt, S, Blue** — 117 returns  
+- 🥤 **Water Bottle - 30 oz** — 62 returns  
+- 🧘‍♀️ **Women's Tights, S & M, Blue** — 54 each  
+- ⌚ **Sports Watch - Blue** — 51 returns  
+- 🚴 **Road Bikes (Red & Black, various sizes)** — consistently high returns
+
+<img width="1029" height="797" alt="image" src="https://github.com/user-attachments/assets/25a87223-c6e1-47ea-92a4-0ba654eacd0e" />
+
+
 
 
 
