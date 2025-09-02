@@ -148,6 +148,18 @@ These figures reflect a strong operational foundation, with high customer engage
 
 <img width="1029" height="797" alt="image" src="https://github.com/user-attachments/assets/25a87223-c6e1-47ea-92a4-0ba654eacd0e" />
 
+## ✅ Conclusion
+
+This Power BI dashboard provides a comprehensive and interactive view of NAB Bank’s sales performance across multiple dimensions—time, geography, product, and customer demographics. It transforms raw data into actionable insights that help stakeholders:
+
+-  Identify growth opportunities and high-performing segments  
+-  Monitor profitability trends and operational efficiency  
+-  Addresses the product return issues and customer satisfaction gaps 
+-  Make informed decisions across marketing, inventory, and strategy
+
+## You can download project here: [Download Dashboard](https://github.com/Anoj-Wagle/Power-BI-Portfolio-Project/blob/main/Sales%20Analytics/Sales%20Analytics.pbix)
+
+
 
 
 
