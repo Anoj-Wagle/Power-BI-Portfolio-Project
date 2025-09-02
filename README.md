@@ -63,42 +63,68 @@ These figures reflect a strong operational foundation, with high customer engage
 - Manual workers cluster around $40,000, with a notable 1,153 customers.
 
 - Management roles are evenly spread across salary bands, with no sharp peak—highest is 420 at $30,000.
+  
   <img width="1393" height="832" alt="image" src="https://github.com/user-attachments/assets/65ef2de8-f1e1-4466-ba89-266678382357" />
 
-### B. Regional Trends  
-- States like **New South Wales** and **Victoria** lead in both sales and profit.  
-- Underperforming regions show potential for targeted marketing and operational review.
+### B. Occupation vs Age Analysis 
+- Older people (55+) mostly work in manual jobs – highest count at 4.6K
 
-### C. Manufacturer Contribution  
-- Sales are concentrated among a few key manufacturers.  
-- Diversification could reduce supply chain risk and improve negotiation leverage.
+- Mid-age group (45–54) shifts to skilled manual work – 1.6K customers
 
-### D. Seasonal Patterns  
-- Monthly trends show peaks in **Q4**, aligning with holiday demand.  
-- Dips in early-year months suggest opportunities for promotional campaigns.
+- Clerical and professional roles stay steady across older age groups
 
----
+- Manual jobs drop sharply from 55+ to 45–54 (4.6K → 0.2K)
 
-## 🧠 Strategic Recommendations  
-| Area               | Recommendation |
-|--------------------|----------------|
-| 📍 Regional Strategy | Replicate success from high-performing states |
-| 🛒 Product Mix       | Focus on top categories; optimize or retire weak ones |
-| 🧾 Supplier Strategy | Diversify and renegotiate supplier contracts |
-| 📅 Seasonal Planning | Time campaigns with demand peaks and troughs |
-| 💹 Profit Optimization | Audit low-margin regions and products |
+- No data for 35–44 age group – possible gap in profiling or collection
 
----
+<img width="1345" height="814" alt="image" src="https://github.com/user-attachments/assets/679aed50-0ccf-45be-a7c3-c0d5ecd09e3c" />
 
-## 🛠️ Tools & Technologies Used  
-- **Power BI** for dashboard creation and visualization  
-- **Excel / CSV** for data preprocessing  
-- **DAX** for calculated metrics and dynamic filtering  
-- **GitHub** for version control and documentation
 
----
+### C. Statewise Breakdown of customers 
+- **Victoria** leads with the highest customer count: **4.13K (29.38%)**
 
-## 📌 Conclusion  
-This Sales Analytics project provides NAB Bank with a powerful decision-support tool. By visualizing performance across categories, regions, and time, the dashboard enables leadership to make informed choices that drive growth, efficiency, and profitability.
+- **New South Wales** follows with **3.48K (24.74%)** — strong regional presence
+
+- **Queensland** holds a solid share: **3.08K (21.86%)**
+
+- **Western Australia** and South Australia have smaller but similar shares **(~12%)**
+
+- Top three states (VIC, NSW, QLD) account for over **75%** of total customers 
+
+<img width="1229" height="754" alt="image" src="https://github.com/user-attachments/assets/847abe50-bdb1-4cc8-8622-3dbd7394290c" />
+
+### D. Gender vs Customer Comparison
+- Females slightly outnumber males across most salary ranges, especially between **10K–40K**.
+
+- Highest customer count is in the 40K range, with females leading (1522 vs 1328).
+
+- Equal representation at 60K, 70K, 110K, 120K, 140K, and 150K — both genders have identical counts.
+
+- Customer numbers drop sharply after 50K, indicating fewer high-income customers overall.
+
+- Gender gap narrows as salary increases — suggesting more balance at higher income levels.
+  
+<img width="1382" height="822" alt="image" src="https://github.com/user-attachments/assets/12fb4638-049a-413f-813e-2e7d3026c709" />
+
+### E. Product Category Analysis
+- **Helmets** are the most profitable category with a **178.06%** profit margin.
+
+- **Accessories** generate the highest total profit: **$425,505**, with a strong margin of **170.64%**.
+
+- **Bikes** have the highest cost **($11.34M)** but a lower margin ****(69.98%) compared to other categories.
+- Most categories show profit margins above **160%**, indicating strong overall profitability.
+- Total profit across all categories is **$8.47M**, with an average margin of **72.13%**.
+
+<img width="731" height="481" alt="image" src="https://github.com/user-attachments/assets/c3e049c5-5704-4fc2-ab78-bcd5480be83e" />
+
+### 📈 F. Monthly Profit Comparison Analysis
+
+- Profits increased every month from Aug 2016 to Jul 2017.
+- Biggest jump: **Jan 2017** – up **234.4%** from last year.
+- Other strong months: **Dec 2016**, **Jun 2017**, **Jul 2017** – all over **190%** growth.
+- Slower growth in **Aug 2016** (61.4%) and **May 2017** (85.7%), but still positive.
+ 
+<img width="1038" height="824" alt="image" src="https://github.com/user-attachments/assets/73584435-c2ac-486d-8048-8c7f0310ec1e" />
+
 
 
