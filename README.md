@@ -136,7 +136,8 @@ These figures reflect a strong operational foundation, with high customer engage
 
 - Seasonal patterns: Mid-year months show more extreme movements
 
-<img width="1033" height="819" alt="Screenshot 2025-09-02 175225" src="https://github.com/user-attachments/assets/c57c9b04-7e52-4b89-a6f5-f068d4fc12a3" />
+<img width="1037" height="820" alt="image" src="https://github.com/user-attachments/assets/f7e32a0b-fe0a-4ff2-b85d-6c78127f4292" />
+
 
 
 ### H. Product Return Analysis
@@ -160,7 +161,8 @@ This Power BI dashboard provides a comprehensive and interactive view of NAB Ban
 
 ## You can download project here: [Download Dashboard](https://github.com/Anoj-Wagle/Power-BI-Portfolio-Project/blob/main/Sales%20Analytics/Sales%20Analytics.pbix)
 
-# 2. 📘
+# 2. 📘Students Engagement and Performance Analysis:
+
 
 
 
