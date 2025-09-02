@@ -4,4 +4,12 @@ This Power BI project repositories demonstrates the ability to transform raw dat
 
 # 1. Sales Analytics Project
 ## Project Overview
-This project aims to analyse the sales report of a customer of a **nab Bank**.
+This project aims analyses the sales performance of a **NAB Bank** from 2015 to 2017 across various dimensions including:
+** Product categories
+** States (Geographical Regions)
+** Manufacturers
+** Time periods 
+The goal is to uncover patterns in sales and profitability, identify growth opportunities, and support data-driven decision-making for strategic planning and operational improvements
+
+## Executive Summary:
+From the following KPI, we can see the total transactions is 11.75 Million with total sales of $ 20 Million. There is profit of 72.13%.
