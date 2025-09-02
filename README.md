@@ -2,7 +2,7 @@
 
 This Power BI project repositories demonstrates the ability to transform raw data into meaningful insights through interactive dashboards and visualizations. It highlights key skills in data cleaning, modeling, and analysis, using real-world datasets to uncover trends, track performance, and support data-driven decision-making. The project reflects a strong understanding of Power BI's capabilities in delivering clear and impactful visual stories tailored to business, finance, or operational contexts.
 
-# 📘 Sales Analytics Project – NAB Bank
+# 1. 📘 Sales Analytics Project – NAB Bank
 
 ## 🎯 Introduction  
 In today’s data-driven economy, understanding sales performance is critical for strategic growth for every organization. This project analyses the **sales data of NAB Bank** from **2015 to 2017**, with the goal of uncovering trends, identifying opportunities, and guiding business decisions through actionable insights.
@@ -126,17 +126,18 @@ These figures reflect a strong operational foundation, with high customer engage
 
 ### G. Month Over Month Comparision 
 
-- 📈 **Highest increase**:  
-  - **Oct 2016**: +0.45  
-  - **Mar 2018**: +0.28  
-  - **Sep 2017**: +0.39
+- 🔺 Peak growth: June 2016 (+0.46) — strongest monthly profit increase
 
-- 📉 **Largest drops**:  
-  - **Nov 2016**: -0.34  
-  - **Nov 2017**: -0.42  
-  - **May 2017**: -0.29
+- 🔻 Sharpest decline: August 2017 (-0.45) — largest drop in profitability
 
-<img width="1033" height="819" alt="image" src="https://github.com/user-attachments/assets/3b19e5b0-e854-4b2d-aaff-d561365372e8" />
+-  Volatility observed: Frequent swings suggest unstable short-term performance
+
+-  Neutral month: June 2017 (+0.01) — minimal change, indicating plateau
+
+- Seasonal patterns: Mid-year months show more extreme movements
+
+<img width="1033" height="819" alt="Screenshot 2025-09-02 175225" src="https://github.com/user-attachments/assets/c57c9b04-7e52-4b89-a6f5-f068d4fc12a3" />
+
 
 ### H. Product Return Analysis
 
@@ -158,6 +159,8 @@ This Power BI dashboard provides a comprehensive and interactive view of NAB Ban
 -  Make informed decisions across marketing, inventory, and strategy
 
 ## You can download project here: [Download Dashboard](https://github.com/Anoj-Wagle/Power-BI-Portfolio-Project/blob/main/Sales%20Analytics/Sales%20Analytics.pbix)
+
+# 2. 📘
 
 
 
