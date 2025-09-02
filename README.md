@@ -8,8 +8,18 @@ This project aims analyses the sales performance of a **NAB Bank** from 2015 to 
 * Product categories
 * States (Geographical Regions)
 * Manufacturers
-* Time periods 
+* Time periods
 The goal is to uncover patterns in sales and profitability, identify growth opportunities, and support data-driven decision-making for strategic planning and operational improvements
 
 ## Executive Summary:
-From the following KPI, we can see the total transactions is 11.75 Million with total sales of $ 20 Million. There is profit of 72.13%.
+# 🚀 Executive Summary
+
+This project analyzes sales performance data from NAB Bank between 2015 and 2017. It explores key metrics such as total transactions, revenue, and profit margins across product categories, geographic regions, and manufacturers.
+
+Key Highlights:
+- 📊 Total Transactions: 11.75 Million
+- 💰 Total Sales: $20 Million
+- 📈 Profit Margin: 72.13%
+
+The dashboard enables stakeholders to identify growth opportunities, monitor regional performance, and make data-driven decisions to improve profitability and operational efficiency.
+
