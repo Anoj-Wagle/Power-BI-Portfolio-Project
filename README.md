@@ -162,6 +162,86 @@ This Power BI dashboard provides a comprehensive and interactive view of NAB Ban
 ## You can download project here: [Download Dashboard](https://github.com/Anoj-Wagle/Power-BI-Portfolio-Project/blob/main/Sales%20Analytics/Sales%20Analytics.pbix)
 
 # 2. 📘Students Engagement and Performance Analysis:
+## Project Objective:
+The aim of this dashboard is to provide insights on **Student Engagement and Performance Analysis** of **St Andrew's College**.
+
+## Dataset Overview:
+The dataset includes the record's of **St Andrew's College** which includes
+* Student's Countries
+* Library Details
+* Passed Students/Failed Students
+* Gender
+* Books Borrowed
+  
+## Dashboard Overview
+This Student Engagement and Performance Analytics dashboard provides a comprehensive view of St Andrew's College. It highlights key segments such as top books, top 5 country as per student enrolled, passed, and failed students. Here is the **Dashboard Preview**.
+
+<img width="630" height="778" alt="image" src="https://github.com/user-attachments/assets/89cd4cc6-299c-4f5c-b173-0be66d25260f" />
+
+## Dashboard Insights
+# 1. Top 5 Countries with department 
+It provides insights into the top five countries with the highest number of departments. From this we can see Croatia, Portugal, and Oman have same number of departments where students enrolled, and two have one department each.
+
+<img width="1035" height="806" alt="Screenshot 2025-09-07 212700" src="https://github.com/user-attachments/assets/bbc9e43c-9095-4945-943d-975e2f2bea0f" />
+
+# 2. Top Enrolled Courses
+This shows the most popular courses among college students. Top two courses have 26 students.
+
+<img width="1358" height="799" alt="image" src="https://github.com/user-attachments/assets/ce199176-0acc-4502-9e85-a612308fc234" />
+
+# 3. List of books with department
+This provides a list of books, along with their titles, for each department.
+
+<img width="692" height="809" alt="Screenshot 2025-09-07 213512" src="https://github.com/user-attachments/assets/b045f929-e27c-4c25-87d1-74d39ac33313" />
+
+# 4. Student Result Aalysis
+This table shows the total number of students along with their pass/fail status, grades, and corresponding percentages. 413 students are failed and other are passed with A and B grade out of 957 students.
+
+<img width="495" height="172" alt="Screenshot 2025-09-07 213545" src="https://github.com/user-attachments/assets/c1599f16-764e-4736-a45c-9d3f7af19ce4" />
+
+# 5. Top five countries with payment
+The donut chart shows student expenditure, categorized by country. Argentia is the top country in terms of payment follwed by New Zealand.
+
+<img width="1215" height="757" alt="Screenshot 2025-09-07 213616" src="https://github.com/user-attachments/assets/2cff08eb-291f-44d2-8afa-bebfd10b660a" />
+
+# 6. Payment Method
+The pie chart gives an insights of payment method used by students. 26.69% student used credit card, 24.96% used cash, 24.41% used online payment method and remaining student used bank transfer for payment.
+
+<img width="1188" height="718" alt="Screenshot 2025-09-07 213646" src="https://github.com/user-attachments/assets/0810d6e8-15cf-4b6e-9b7f-5706f887d0e9" />
+
+# 7. Top 5 books kept by student
+The bar diagram shows top books that student hold for long period
+<img width="1365" height="809" alt="Screenshot 2025-09-07 213738" src="https://github.com/user-attachments/assets/227622e7-e657-4d87-bc95-7070637a8c2d" />
+
+# 8. Student Enrollment by a year
+From the trend line, we can observe the number of students enrolled each year since 2016. Overall, student enrollment has increased, with a deep decrease in 2019, followed by a rise again—possibly influenced by COVID-19 and other factors.
+
+<img width="1362" height="823" alt="Screenshot 2025-09-07 213812" src="https://github.com/user-attachments/assets/ca446730-4724-4bb3-a5c7-4ee1b1c2b072" />
+
+# The **slicer** and **KPI** provide information on students’ full names, total pass and fail counts, total courses, and gender distribution.
+
+# Insights and Conclusion
+From the dashboard, we can view insights such as the top five countries where students are enrolled by department, the most borrowed books held for long periods, preferred payment methods, the top five payment patterns by country, the most enrolled courses, student results, yearly enrollment trends, and the list of books.
+* Analyse pass/fail trends over the years to identify factors affecting student performance and implement interventions for at-risk students.
+
+* Monitor consistently popular courses to allocate resources efficiently and improve engagement in low-enrollment courses.
+
+* Expand recruitment in countries with high enrollment and provide targeted support to increase diversity in countries with lower enrollment.
+
+* Identify high-demand books to ensure availability and optimize underutilized books to manage library resources and budgets.
+
+* Assess preferred payment methods to streamline processes and monitor high-payment countries for scholarships or special programs.
+
+* Examine yearly enrollment trends to forecast future intake, anticipate peak years, and optimize staffing and course planning.
+
+* Segment students by performance, course choice, and engagement to design personalized programs and re-engage inactive students.
+  
+## You can download dashboard here : [Download Dashboard](https://github.com/Anoj-Wagle/Power-BI-Portfolio-Project/tree/main/Student%20Performance%20and%20Engagement%20Analysis)
+
+# Contributions
+Your feedback is valuable! Share ideas or suggest improvements to help us enhance our SQL and Power BI tools. More impactful Excel- and Power BI-based solutions are coming soon! 🚀
+
+**✨ Stay tuned for exciting updates!**
 
 
 
