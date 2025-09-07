@@ -239,7 +239,7 @@ From the dashboard, we can view insights such as the top five countries where st
 ## You can download dashboard here : [Download Dashboard](https://github.com/Anoj-Wagle/Power-BI-Portfolio-Project/tree/main/Student%20Performance%20and%20Engagement%20Analysis)
 
 # Contributions
-Your feedback is valuable! Share ideas or suggest improvements to help us enhance our SQL and Power BI tools. More impactful Excel- and Power BI-based solutions are coming soon! 🚀
+Your feedback is valuable! Share ideas or suggest improvements to help enhance my SQL and Power BI tools and dashboards. More impactful Power BI-based solutions are coming soon! 🚀
 
 **✨ Stay tuned for exciting updates!**
 
